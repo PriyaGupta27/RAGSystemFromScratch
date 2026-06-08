@@ -86,4 +86,4 @@ The Streamlit app provides an intuitive interface:
 This implementation demonstrates the fundamental principles of RAG systems and serves as a foundation for more advanced retrieval-augmented applications.
 
 ### Output
-![alt text](/BasicRagSystem/image.png)
+![alt text](/image.png)
