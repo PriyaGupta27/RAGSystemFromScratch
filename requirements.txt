@@ -1,0 +1,8 @@
+streamlit
+beautifulsoup4
+pypdf
+requests
+chromadb
+sentence-transformers
+uvicorn
+groq
